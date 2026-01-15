@@ -1,14 +1,14 @@
 ## WorkstackR: Personal Productivity & Project Tracking
-### A high-performance R Shiny dashboard designed for senior data scientists to manage complex workstreams, track blockers, and visualize project timelines.
+### A high-performance R Shiny dashboard designed for senior data scientists to manage complex workstreams, track blockers, and visualise project timelines.
 
 ### Features
 * Interactive Data Entry: Uses rhandsontable and DT for seamless, Excel-like ticket updates.
 
-* Dynamic Timelines: Interactive Gantt-style visualizations powered by timevis.
+* Dynamic Timelines: Interactive Gantt-style visualisations powered by timevis.
 
 * Workflow Tracking: Manage review dates, next steps, and blockers.
 
-* Enhanced UX: Utilizes shinyWidgets for custom inputs and shinyalert for stylized confirmations.
+* Enhanced UX: Utilises shinyWidgets for custom inputs and shinyalert for stylised confirmations.
 
 * Performance: Loading states managed by shinycustomloader for a smooth analytical experience.
 
