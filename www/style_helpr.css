@@ -1,0 +1,188 @@
+/* this is the top left element above the menu bar where the title sits */
+.skin-yellow .main-header .logo {
+    background-color: #46505a;
+    }
+    
+    /* this is the top bar above the body not above the menu bar */
+    .skin-yellow .main-header .navbar {
+    background-color: #46505a;
+    }
+    /* this is the active menu item */
+    .skin-yellow .main-sidebar .sidebar .sidebar-menu .active a{
+    background-color: #46505a;
+    }
+    
+    /* this is the menu item being hovered over */
+    .skin-yellow .main-sidebar .sidebar .sidebar-menu a:hover{
+    background-color: #0a9B82;
+    }
+    
+    .skin-yellow .sidebar-menu > li.active > a {
+      border-left-color: #0a9B82;
+    }
+    
+    .sidebar {
+        color: #FFF;
+        width: 230px;
+      white-space: nowrap;
+        overflow: visible;
+    }
+    
+    .main-header {
+      position: fixed;
+      width:100%;
+    }
+  
+    .content {
+      padding-top: 60px;
+    }
+      /* Boxes set to */
+    .box.box-solid.box-primary>.box-header {
+    color:#fff;
+    background:#715aa3
+    }
+    .box.box-solid.box-primary{
+    border-bottom-color:#55379b;
+    border-left-color:#55379b;
+    border-right-color:#55379b;
+    border-top-color:#55379b;
+    }
+  
+  
+  .tabbable > .nav > li > a {
+    background-color: #46505a; 
+     color:white
+    }
+  .tabbable > .nav > li[class=active] > a {
+    background-color: 
+    #0a9B82; color:white
+  }
+  
+  
+  /*  */
+  .table-full-page, .table-box-contained {
+    border: none;
+    border-bottom: 1px solid rgba(113,90,163, 0.3);
+    font-size: 14px !important;
+  }
+  
+  /* Header */
+  .table-full-page th {
+    background-color: #FFF;
+    color: #000;
+    text-align: center !important;
+    font-weight: bold;
+    border: none !important;
+    border-bottom: 1px solid #000 !important;
+    padding-left: 5px !important;
+    padding-right: 15px !important;
+    /*font-size:13px;*/
+  }
+  
+  .table-bordered tr.active td {
+    background-color: rgba(10,156,130,0.6) !important;
+    color: #000;
+  }
+  
+  /*First Column of DT*/
+  /*
+  .table-bordered  tr td:first-child {
+    font-weight: bold;
+  }
+   */
+  
+  .table-bordered td {
+    border-color: rgba(113,90,163, 0.3) !important;
+  }
+  
+  .table-bordered tr.dtrg-group td {
+    background-color: #FFF !important;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 6px;
+    position: relative;
+    color: #000 !important;
+    border-left: none !important;
+    text-transform: uppercase;
+    font-size: 1em;
+  }
+  
+  .table-bordered tr.dtrg-group td:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    height: 30px;
+    background-color: rgba(113,90,163, 0.3);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 100px;
+  }
+  
+  
+  .topnav {
+    position: absolute;
+    top: 0;
+    right: 47%;
+    z-index: 9999;
+  }
+  
+  .topnav ul {
+    list-style: none;
+  }
+  
+  .topnav li {
+    display: inline-block;
+  }
+  
+  .topnav a {
+    display: block;
+    padding: 15px 10px;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .topnav a:hover {
+    text-decoration: underline;
+  }
+  
+  /*
+  .shiny-notification {
+    height: 100px;
+    width: 800px;
+    position:fixed;
+    bottom: 0px;
+    left: calc(50% - 400px);
+  }*/
+  
+  .shiny-notification {
+    height: 100px;
+    width: 800px;
+    position:fixed;
+    top: calc(75% - 50px);;
+    left: calc(34% - 400px);;
+    }
+  
+  .table-hover>tbody>tr:hover {
+    background-color: pink!important;
+  }
+  
+  .box {margin: 5px; padding:0px;}
+  
+  .box.box-solid.box-primary>.box-header {
+    color:#fff;
+    background:#46505a
+                      }
+  
+  .box.box-solid.box-primary{
+  border-bottom-color:#46505a;
+  border-left-color:#46505a;
+  border-right-color:#46505a;
+  border-top-color:#46505a;
+  }
+  
+  .nav-tabs-custom .nav-tabs li.active {
+      border-top-color: #d73925
+  }
+  
