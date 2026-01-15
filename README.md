@@ -1,8 +1,8 @@
-# WorkstackR: Personal Productivity & Project Tracking
-## A high-performance R Shiny dashboard designed for senior data scientists to manage complex workstreams, track blockers, and visualize project timelines.
+## WorkstackR: Personal Productivity & Project Tracking
+### A high-performance R Shiny dashboard designed for senior data scientists to manage complex workstreams, track blockers, and visualize project timelines.
 
 ### Features
-* Interactive Data Entry: Uses rhandsontable and DT for seamless, Excel-like ticket updates. status: ![experimental]
+* Interactive Data Entry: Uses rhandsontable and DT for seamless, Excel-like ticket updates.
 
 * Dynamic Timelines: Interactive Gantt-style visualizations powered by timevis.
 
